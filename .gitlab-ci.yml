@@ -1,6 +1,6 @@
 #Build Setup
 Build:
   script:
-    - echo "This job runs in merge request pipelines"
+    - echo "This job runs sucessfully"
   rules:
     - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
