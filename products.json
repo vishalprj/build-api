@@ -1,0 +1,39 @@
+[
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 1541,
+        "company": "apple"
+    },
+    {
+        "name": "watch 5",
+        "price": 15411,
+        "company": "apple"
+    },
+    {
+        "name": "watch 4",
+        "price": 1411,
+        "company": "samsung"
+    },
+    {
+        "name": "watch 5",
+        "price": 1421,
+        "company": "samsung"
+    },
+    {
+        "name": "fold 6",
+        "price": 1411,
+        "company": "samsung"
+    }
+]
