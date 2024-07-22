@@ -1,16 +1,20 @@
 {
-  "name": "build-api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.19.2",
-    "nodemon": "^3.1.4"
-  }
+    "name": "build-api",
+    "version": "1.0.0",
+    "description": "Build REST API with Node Express Mongo &amp; Mongoose",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.4"
+    },
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    }
 }
